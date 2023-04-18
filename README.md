@@ -11,7 +11,7 @@
 
 -   💬 Ask me about **my weiner 🌭**
 
--   📫 How to reach me **joe@joepeterson.work**
+-   📫 How to reach me **[https://joepeterson.work/contact](https://joepeterson.work/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
