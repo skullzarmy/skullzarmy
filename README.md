@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on [ChatGPToot](https://github.com/skullzarmy/chatGPToot)
 
--   🌱 I’m currently learning **Flutter/Dart, LLM integrations**
+-   🌱 I’m currently learning **Flutter/Dart, LLM fun**
 
 -   👨‍💻 My professional site [https://joepeterson.work](https://joepeterson.work)
 
