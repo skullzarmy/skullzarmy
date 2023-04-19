@@ -1,4 +1,4 @@
-<div align="center" style="margin:0 auto;"><a href="https://joepeterson.work/"><img src="https://joepeterson.work/JP-logo-test-iso.png" alt="my logo - click to visit my site" /></a></div>
+<div align="center" style="margin:0 auto;"><a href="https://joepeterson.work/"><img src="https://joepeterson.work/JP-logo-test-iso.png" alt="my logo - click to visit my site" width="75"/></a></div>
 <h1 align="center">Hey there 👋, I'm Joe</h1>
 <h3 align="center">A seasoned engineering leader</h3>
 
