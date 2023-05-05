@@ -4,6 +4,8 @@
 
 -   🔭 I’m currently working on [ChatGPToot](https://github.com/skullzarmy/chatGPToot)
 
+-   🚀 I just released a new API [DiceForge](https://rapidapi.com/skullzarmy-YuORutOAw/api/diceforge/pricing)
+
 -   🌱 I’m currently learning **Flutter/Dart, LLM fun**
 
 -   👨‍💻 My professional site [https://joepeterson.work](https://joepeterson.work)
