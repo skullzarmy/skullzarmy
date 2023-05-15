@@ -12,8 +12,6 @@
 
 -   📝 My play site [https://socaltechlab.com](https://socaltechlab.com)
 
--   💬 Ask me about **my weiner 🌭**
-
 -   📫 How to reach me **[https://joepeterson.work/contact](https://joepeterson.work/contact)**
 
 <h3 align="left">Connect with me:</h3>
