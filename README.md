@@ -1,19 +1,5 @@
-<div align="center" style="margin:0 auto;"><a href="https://joepeterson.work/"><img src="https://joepeterson.work/JP-logo-test-iso.png" alt="my logo - click to visit my site" width="150"/></a></div>
-<h1 align="center">Hey there 👋, I'm Joe</h1>
-<h3 align="center">A seasoned engineering leader</h3>
-
--   🔭 I’m currently working on [ChatGPToot](https://github.com/skullzarmy/chatGPToot)
-
--   🚀 I just released a new API [DiceForge](https://rapidapi.com/skullzarmy-YuORutOAw/api/diceforge/pricing)
-
--   🌱 I’m currently learning **Flutter/Dart, LLM fun**
-
--   👨‍💻 My professional site [https://joepeterson.work](https://joepeterson.work)
-
--   📝 My play site [https://socaltechlab.com](https://socaltechlab.com)
-
--   📫 How to reach me **[https://joepeterson.work/contact](https://joepeterson.work/contact)**
-
+<div align="left" style="margin:0 auto;"><a href="https://joepeterson.work/"><img src="https://joepeterson.work/JP-logo-test-iso.png" alt="my logo - click to visit my site" width="150"/></a></div>
+<h1 align="left">Hey there 👋, I'm Joe</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
