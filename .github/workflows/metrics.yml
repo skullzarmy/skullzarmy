@@ -41,7 +41,6 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_timestamps: yes
           plugin_activity_visibility: public
-          plugin_fortune: yes
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
