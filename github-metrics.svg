@@ -292,6 +292,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Unfucker: Revolutionizing Text File Repair with One Developer's ADHD-Driven Innovation</div>
+                                <div class="date">2 Nov 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Elevate Web Accessibility with the A11y Tester WordPress Plugin</div>
                                 <div class="date">21 Oct 2023</div>
                             </div>
@@ -312,15 +321,6 @@
                             <div class="infos">
                                 <div class="title">Revolutionize Your Networking Game with Dynamic Digital Business Cards</div>
                                 <div class="date">10 Oct 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Supercharge Your Git Commits with OpenCommit: A Must-Have Tool for Developers</div>
-                                <div class="date">8 Oct 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1787,7 +1787,7 @@ The unfuck request URL in the README.md file has been updated to include an alte
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2023, 13:03:43 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2023, 14:03:41 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
