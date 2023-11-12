@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1601" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1585" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            917 Commits
+                            923 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -132,7 +132,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    69.5 MB used
+                                    69.6 MB used
                                 </div>
                             </section>
                             <section>
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.71616148434623" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="355.71616148434623" y="0" width="88.20161974699361" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.91778123133986" y="0" width="7.502970195231711" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="451.4207514265716" y="0" width="6.855296802027848" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.27604822859945" y="0" width="0.7779538830824229" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="459.0540021116818" y="0" width="0.5542468927827143" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.60824900446454" y="0" width="0.3708682808774157" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.97911728534194" y="0" width="0.02088271465799849" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="355.51396984667235" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="355.51396984667235" y="0" width="88.15148530871642" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.66545515538877" y="0" width="7.498705452733473" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="451.16416060812224" y="0" width="6.851400201768362" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.0155608098906" y="0" width="0.7775116884714193" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="458.793072498362" y="0" width="0.6024365707409316" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.39550906910296" y="0" width="0.583620086125038" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.979129155228" y="0" width="0.02087084477202491" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -222,15 +222,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -371,7 +371,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.86
+                            Average per day at ~2.90
                         </div>
                     </section>
                 </div>
@@ -1347,10 +1347,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.55)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.45 0,1.45 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.45 1.7,2.45 z"/>
+                            <g transform="translate(-10.2, 10.65)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.35 0,2.35 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.35 1.7,3.35 z"/>
                             </g>
                         </g>
                     </g>
@@ -1373,41 +1373,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">skullzarmy/chatGPToot</span>
+                                        <span class="repo">skullzarmy/bun-for-loop-recursion-testing</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16c5d7d</div>
-                                        <div class="message">🔧 chore(status_http_server.js): set "trust proxy" to 1 to enable trust for proxy headers
-🔒 chore(status_http_server.js): add rate limiting middleware to protect against abuse and ensure API availability</div>
+                                        <div class="sha">#1021ffb</div>
+                                        <div class="message">updating report results</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">11 Nov 2023, 18:16:16</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">skullzarmy/chatGPToot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b3e3bf3</div>
-                                        <div class="message">🔧 chore(package.json): update ngrok command to use a custom domain for the status server
-
-📦 chore(package.json): update ngrok command to use a custom domain (selected-minnow-aware.ngrok-free.app) for the status server to ensure consistent and predictable URLs</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Nov 2023, 18:03:54</div>
+                                <div class="timestamp">11 Nov 2023, 21:39:53</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1424,44 +1400,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#afc960d</div>
-                                        <div class="message">🔧 chore(README.md): update command in README to include --report flag for generating test reports
-🔧 chore(test.ts): add support for calling python3 report.py script when --report flag is passed as an argument
-📝 docs(test_analysis_report.md): update test analysis report with new test results</div>
+                                        <div class="sha">#262abf5</div>
+                                        <div class="message">updating report results</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Nov 2023, 19:20:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">skullzarmy/bun-for-loop-recursion-testing</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4dc197a</div>
-                                        <div class="message">📝 docs(README.md): update links to test analysis report and performance graph for clarity and accessibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d67ddd3</div>
-                                        <div class="message">📝 docs(README.md): update instructions for running tests and generating reports
-
-- Update the command to execute the TypeScript script to generate test data
-- Add optional arguments `testCountArg` and `depthCountArg` to specify the number of tests and depth of nested loops
-- Provide default values for the optional arguments
-
-This change improves the clarity and usability of the instructions for running tests and generating reports.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Nov 2023, 16:48:44</div>
+                                <div class="timestamp">11 Nov 2023, 21:37:06</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -1478,11 +1421,55 @@ This change improves the clarity and usability of the instructions for running t
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07fd421</div>
-                                        <div class="message">📝 docs(README.md): update link to SoCalTechLab.com to make it clickable and improve readability</div>
+                                        <div class="sha">#c6b492b</div>
+                                        <div class="message">📝 docs(test_analysis_master_report.md): fix typo in file names to improve consistency and readability</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Nov 2023, 16:41:05</div>
+                                <div class="timestamp">11 Nov 2023, 21:25:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">skullzarmy/bun-for-loop-recursion-testing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#222dbfc</div>
+                                        <div class="message">🐛 fix(test_analysis_master_report.md): fix file names in the report links to match the actual file names</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Nov 2023, 21:25:08</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">skullzarmy/bun-for-loop-recursion-testing</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8a4b607</div>
+                                        <div class="message">📝 docs(test_analysis_master_report.md): update test analysis master report with comparison of environments
+
+🔀 refactor(test_analysis_master_report.md): reformat the depth sections for better readability and consistency</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Nov 2023, 21:24:31</div>
                             </section>
                         </div>
                     </section>
@@ -1787,7 +1774,7 @@ This change improves the clarity and usability of the instructions for running t
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Nov 2023, 21:03:21 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2023, 22:03:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
