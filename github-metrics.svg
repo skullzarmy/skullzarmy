@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1159 Commits
+                            1160 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,14 +180,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.681189042166" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="354.681189042166" y="0" width="88.17633808408122" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.8575271262472" y="0" width="7.481139960265269" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="450.33866708651243" y="0" width="6.867109925753768" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.2057770122662" y="0" width="1.4085291079368485" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.6143061202031" y="0" width="0.7756903906762368" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="459.3899965108793" y="0" width="0.5822529735891823" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9722494844685" y="0" width="0.027750515531476196" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.6383164640608" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="354.6383164640608" y="0" width="88.16567964755193" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.80399611161266" y="0" width="7.480235667150291" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="450.28423177876294" y="0" width="6.866279854366434" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.1505116331294" y="0" width="1.4639619847333842" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.61447361786276" y="0" width="0.7755966280299866" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="459.3900702458928" y="0" width="0.5821825929576223" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9722528388504" y="0" width="0.027747161149621894" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1369,6 +1369,28 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">skullzarmy/grnd-stats-frame</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ee59109</div>
+                                        <div class="message">✨ (index.tsx): Add a new cast action to check GRND stats and display related information and images
+📝 (index.tsx): Update index.tsx to include a new cast action for checking GRND stats and displaying relevant information and images</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jun 2024, 12:11:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1430,27 +1452,6 @@
                                 <div class="timestamp">4 Jun 2024, 13:44:58</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">skullzarmy/grnd-stats-frame</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#83ee58a</div>
-                                        <div class="message">✨ (index.tsx): Add skllzrmy.png image in the footer section for a consistent branding across different pages.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">4 Jun 2024, 13:38:24</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1473,7 +1474,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.594113620807686 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.678986995208753 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1753,7 +1754,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jun 2024, 12:03:19 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jun 2024, 13:03:26 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
