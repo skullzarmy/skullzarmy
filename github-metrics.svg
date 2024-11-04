@@ -292,6 +292,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Introducing Rate Keeper: A Compact Utility for Robust Rate Limiting</div>
+                                <div class="date">2 Nov 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">A Dangerous Power Play: Matt Mullenweg's Latest Move Threatens To Totally Fork Him Over</div>
                                 <div class="date">13 Oct 2024</div>
                             </div>
@@ -312,15 +321,6 @@
                             <div class="infos">
                                 <div class="title">Benchmarking JavaScript Runtimes: How bun.sh Stands Up Against Node.js in Recursive Loops</div>
                                 <div class="date">11 Nov 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Unfucker: Revolutionizing Text File Repair with One Developer's ADHD-Driven Innovation</div>
-                                <div class="date">2 Nov 2023</div>
                             </div>
                         </div>
                     </section>
@@ -1860,7 +1860,7 @@ improvements to queue to allow settings properties and better manage memory limi
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2024, 17:34:48 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2024, 18:28:14 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
