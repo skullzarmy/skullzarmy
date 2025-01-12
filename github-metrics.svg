@@ -1586,7 +1586,7 @@ https://app.snyk.io/org/skullzarmy/project/99504ef1-dbb1-42a8-81f4-42a70d92180b?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.14m out of 151m users</span>
+                                    <span class="gh">ranked 1.14m out of 153m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">40</div>
                                     </div>
@@ -1725,7 +1725,7 @@ https://app.snyk.io/org/skullzarmy/project/99504ef1-dbb1-42a8-81f4-42a70d92180b?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2025, 01:03:34 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2025, 02:03:46 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
