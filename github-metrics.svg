@@ -1339,6 +1339,31 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e61a593</div>
+                                        <div class="message">✨ (MediaContent.tsx, nft-frame.tsx, data-orchestrator.ts): introduce unified media detection and loading for various media types to enhance user experience and support multiple formats
+🐛 (MediaContent.tsx): fix loading logic to handle initial textures and fallback URIs correctly
+📝 (media-utils.ts): add media type detection utilities for improved MIME type handling and fallback strategies
+🔧 (package.json): add threejs-gif-texture dependency for GIF support in media loading
+💡 (MediaContent.tsx): add comments for clarity on loading processes and media type detection logic</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Jul 2025, 01:00:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">skullzarmy/colleKT</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#144b5b8</div>
                                         <div class="message">♻️ (UnifiedGallery, GalleryPage, GalleryPageWithNumber): refactor page navigation logic to remove redundant router usage and simplify component structure
 ✨ (GalleryFooter): add a new GalleryFooter component to display copyright information and enhance UI
@@ -1430,27 +1455,6 @@
                                 <div class="timestamp">9 Jul 2025, 01:04:30</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">skullzarmy/colleKT</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#163102b</div>
-                                        <div class="message">♻️ (RoomTitle.tsx): refactor variable names from pageText to roomText for clarity and update comments to reflect the change in context</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Jul 2025, 22:09:28</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1474,7 +1478,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jul 2025, 03:04:18 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jul 2025, 04:03:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
