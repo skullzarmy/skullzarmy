@@ -10,7 +10,8 @@ on:
         description: 'Comma-separated list of feed URLs'
         required: false
         default: 'https://joepeterson.work/feed.xml'
-
+permissions:
+  contents: write
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
