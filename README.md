@@ -15,6 +15,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://joepeterson.work/blog/vibealive-cleaning-up-code-chaos-ai-assisted-development)
+- [Next.js 16 Beta: The Game-Changing Update Every Next Dev Needs To Know](https://joepeterson.work/blog/nextjs-16-beta-developer-deep-dive)
+- [Hacktoberfest 2025: Three Projects, Three Days, Infinite Possibilities](https://joepeterson.work/blog/hacktoberfest-2025-three-projects-three-days)
+- [Next.js 15: Why You Should Upgrade in October 2025](https://joepeterson.work/blog/nextjs-15-upgrade-guide-october-2025)
+- [Lessons from Building a Global Digital Ecosystem](https://joepeterson.work/blog/lessons-from-building-global-digital-ecosystem)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
