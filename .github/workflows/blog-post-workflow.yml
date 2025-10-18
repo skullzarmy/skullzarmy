@@ -3,6 +3,14 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  # Add manual run option
+  workflow_dispatch:
+    inputs:
+      feed_list:
+        description: 'Comma-separated list of feed URLs'
+        required: false
+        default: 'https://joepeterson.work/feed.xml'
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -11,4 +19,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://joepeterson.work/feed.xml'
+          # Use the provided input when run manually; fallback to the default when scheduled
+          feed_list: ${{ github.event.inputs.feed_list || 'https://joepeterson.work/feed.xml' }}
