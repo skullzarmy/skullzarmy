@@ -2,7 +2,8 @@
 
 ### A seasoned Typescript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skullzarmy" alt="skullzarmy" /></a> </p>
+[![An image of @skullzarmy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skullzarmy)](https://holopin.io/@skullzarmy)
+
 
 <p align="left"> <a href="https://twitter.com/skllzarmy" target="blank"><img src="https://img.shields.io/twitter/follow/skllzarmy?logo=twitter&style=for-the-badge" alt="skllzarmy" /></a> </p>
 
