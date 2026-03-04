@@ -16,11 +16,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero to 100: Achieving Web Perfection Without Heavy Frameworks](https://joepeterson.work/blog/year-progress-100-lighthouse)
 - [Porcupin: A Deep Dive into the Technical Marvel of NFT Backup Solutions](https://joepeterson.work/blog/porcupin-technical-post-mortem)
 - [The Pareto Trap: Why AI Can&#39;t Finish Your Project](https://joepeterson.work/blog/the-pareto-trap-why-ai-cant-finish-your-project)
 - [AI Coding Assistants: The Modern Steam Engine - Not Your Enemy, Your Lever](https://joepeterson.work/blog/ai-coding-assistants-modern-steam-engine)
 - [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://joepeterson.work/blog/vibealive-cleaning-up-code-chaos-ai-assisted-development)
-- [Next.js 16 Beta: The Game-Changing Update Every Next Dev Needs To Know](https://joepeterson.work/blog/nextjs-16-beta-developer-deep-dive)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
