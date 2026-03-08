@@ -16,11 +16,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Signal vs. Noise: When to Listen to the Crowd and When to Invest in the Negative](https://joepeterson.work/blog/signal-vs-noise-when-to-listen-and-when-to-invest-in-the-negative)
 - [Zero to 100: Achieving Web Perfection Without Heavy Frameworks](https://joepeterson.work/blog/year-progress-100-lighthouse)
 - [Porcupin: A Deep Dive into the Technical Marvel of NFT Backup Solutions](https://joepeterson.work/blog/porcupin-technical-post-mortem)
 - [The Pareto Trap: Why AI Can&#39;t Finish Your Project](https://joepeterson.work/blog/the-pareto-trap-why-ai-cant-finish-your-project)
 - [AI Coding Assistants: The Modern Steam Engine - Not Your Enemy, Your Lever](https://joepeterson.work/blog/ai-coding-assistants-modern-steam-engine)
-- [VibeAlive: Cleaning Up the Code Chaos of AI-Assisted Development](https://joepeterson.work/blog/vibealive-cleaning-up-code-chaos-ai-assisted-development)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
