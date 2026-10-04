@@ -16,11 +16,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Would Have to Be True for This to Be Fine](https://joepeterson.work/blog/what-would-have-to-be-true-for-this-to-be-fine)
 - [The Tyrell Protocol: Can Synthetic Memories Solve AI Alignment?](https://joepeterson.work/blog/tyrell-protocol-synthetic-memories-ai-alignment)
 - [MindWalk: Beyond the Chat Box, Into the Mind](https://joepeterson.work/blog/mindwalk-beyond-the-chat-interface)
 - [Signal vs. Noise: When to Listen to the Crowd and When to Invest in the Negative](https://joepeterson.work/blog/signal-vs-noise-when-to-listen-and-when-to-invest-in-the-negative)
 - [Zero to 100: Achieving Web Perfection Without Heavy Frameworks](https://joepeterson.work/blog/year-progress-100-lighthouse)
-- [Porcupin: A Deep Dive into the Technical Marvel of NFT Backup Solutions](https://joepeterson.work/blog/porcupin-technical-post-mortem)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
